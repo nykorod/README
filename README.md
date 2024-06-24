@@ -33,7 +33,7 @@
 
 | Linguagens       | Ferramentas e Tecnologias     |
 | ---------------- | ----------------------------- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | GitHub, PyAutoGUI, Pandas, Scikit-learn |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)| GitHub, PyAutoGUI, Pandas, Scikit-learn |
 
 ## Focado em:
 - **Automação de Sistemas:** Criação de scripts e ferramentas para automatizar processos repetitivos, aumentar a eficiência e reduzir erros.
