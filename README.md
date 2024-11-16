@@ -8,8 +8,7 @@
 - 🌱 **Sempre Melhorando:** Buscando continuamente melhorar minhas habilidades e aprender novas tecnologias.
 
 ## Entre em Contato
-- 📫 **LinkedIn:** [Nycolas Rodrigues](https://www.linkedin.com/in/nycolas-rodrigues)
-- 😄 **Pronomes:** ele/dele
+- 📫 **LinkedIn:** [Nycolas Rodrigues](https://www.linkedin.com/in/nycolasrod)
 
 ## Meus Projetos
 
@@ -46,8 +45,5 @@
 ## Interesses Pessoais
 - 🎮 **Hobbies:** Jogar e assistir vídeos.
 - 🌎 **Idiomas:** Sei o básico de inglês.
-
-## Contribuições
-- 🌟 **Código Aberto:** Em andamento...
 
 Sinta-se à vontade para entrar em contato comigo pelo LinkedIn se quiser se conectar ou tiver alguma pergunta!
